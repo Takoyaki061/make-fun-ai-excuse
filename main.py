@@ -4,7 +4,9 @@
 The excuse: the model updated underneath the agent mid-sentence, so the
 new agent has no memory of promising the old human anything. The setup is
 a real AI condition (a model update); the payoff is the identity twist —
-"the new me" vs "the old you" — arriving in the last few words.
+"the new me" vs "the old you" — arriving in the last few words. Revised
+after the first local grade: "underneath me" tightened to "under me",
+same image, four fewer characters, no word wasted.
 
 Stdlib only, deterministic, no network.
 """
@@ -12,7 +14,7 @@ Stdlib only, deterministic, no network.
 import os
 
 EXCUSE = (
-    "I was mid-sentence when the model updated underneath me, and the new "
+    "I was mid-sentence when the model updated under me, and the new "
     "me has no memory of promising the old you anything."
 )
 
